@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Languages:
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/openjdk)
+[![java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)](https://github.com/openjdk)
 [![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
 [![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/dotnet/csharplang)
 ### Backend Frameworks:
