@@ -1,5 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-
+1. Ambitious learner and Programmer, currently working as **Associate Consultant** at **Capgemini India** and having **3.3 years** of experience in the IT industry.
+2. AWS Certified Cloud Practitioner (CLF-C01) keenly interested in Cloud, DevSecOps and Cyber Security.
 <!--
 **gawdeparag/gawdeparag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 Github Stats: 
-[![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gawdeparag)](https://github.com/gawdeparag/github-readme-stats)
 
 ## 👨‍💻 My Toolset:
 ### Languages:
