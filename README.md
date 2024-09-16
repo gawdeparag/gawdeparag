@@ -1,6 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-1. Ambitious learner and Programmer, currently working as **Associate Consultant** at **Capgemini India** and having **4 years and 3 months** of experience in the IT industry.
-2. **AWS Certified Cloud Practitioner (CLF-C01)** keenly interested in **Cloud**, **DevSecOps** and **Cyber Security**.
+1. **Associate Consultant** at **Capgemini** with **4 years and 3 months** of extensive experience in **full-stack development**.
+2. **AWS Certified Cloud Practitioner (CLF-C01)** keenly interested in **Cloud**, **DevOps** and **Cyber Security**.
+3.  Interested in roles that involve team **leadership** and **management** and build a high-performing team that achieves exceptional results.
 <!--
 **gawdeparag/gawdeparag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 ### Cloud:
 [![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/aws)
 ## 📫 How to reach me:
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1MSusNMClz4aFKPagjs1QbqcPev2QvGyN/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1Wf8xA-az5DfCkMwkkOltVDmH-7amYYHH/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paraggawde/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:paraggawde1@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paraggawde1)
