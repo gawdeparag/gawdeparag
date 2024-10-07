@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 ### Cloud:
 [![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/aws)
 ## 📫 How to reach me:
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1Wf8xA-az5DfCkMwkkOltVDmH-7amYYHH/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/17upkaWDocdwxo93qWPtWjqxA39ZJkiMn/view?usp=sharing)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paraggawde/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paraggawde/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:paraggawde1@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paraggawde1)
