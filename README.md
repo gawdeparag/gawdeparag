@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![jira](https://img.shields.io/badge/jira-3530DB.svg?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/atlassian)
 
 ## 📫 How to reach me:
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/17upkaWDocdwxo93qWPtWjqxA39ZJkiMn/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1kXre-GRp1dNp3iI4tmcmioZoe2gFNPHu/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paraggawde/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paraggawde/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:paraggawde1@gmail.com)
