@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-1. **Associate Consultant** at **Capgemini** with **4 years and 4 months** of extensive experience in **full-stack development**.
+1. **Associate Consultant** at **Capgemini** with **4 years and 2 months** of extensive experience in **full-stack development**.
 2. **AWS Certified Cloud Practitioner (CLF-C01)** keenly interested in **Cloud**, **DevOps** and **Cyber Security**.
 3. Seeking an environment that offers opportunities for **career advancement** and interested in roles that involve **team leadership** and **management**.
 <!--
