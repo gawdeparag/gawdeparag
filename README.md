@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-1. **Software Engineer** with **4 years and 3 months** of extensive experience in **back-end development**.
+1. **Software Engineer** with **4 years and 4 months** of extensive experience in **back-end development**.
 2. **AWS Certified Cloud Practitioner (CLF-C01)** keenly interested in **Cloud**, **DevOps** and **Cyber Security**.
 3. Seeking an environment that offers opportunities for **career advancement** and interested in roles that involve **team leadership** and **management**.
 <!--
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![typescript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)](https://www.typescriptlang.org)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
-[![go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 ### Backend Frameworks:
 [![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/nodejs)
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 ### DevOps:
 [![jira](https://img.shields.io/badge/jira-3530DB.svg?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/atlassian)
 
-## 📫 How to reach me:
+## 📫 How to reach out to me:
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A6DQDCS7Bfbkmb_KQYVKeuAQvgN-Hdhn/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paraggawde/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paraggawde/)
