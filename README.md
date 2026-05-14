@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-1. **Sr. Bilingual Software Engineer** with **4 years and 8 months** of extensive experience in **back-end development**.
-2. **AWS Certified Cloud Practitioner (CLF-C01)** keenly interested in **Cloud**, **DevOps** and **Cyber Security**.
-3. Seeking an environment that offers opportunities for **career advancement** and interested in roles that involve **team leadership** and **management**.
+1. **Sr. Bilingual Software Engineer** with **4 years and 9 months**, specializing in **back-end development**.
+2. Strong expertise in *React*, *Java-Spring Boot*, REST APIs, MySQL, MSSQL, etc. and Bilingual capabilities with *Japanese* language. 
+3. Keenly interested in **continuous learning** and **adaptible** to new tech stacks, seeking an environment that offers opportunities for **career advancement** and interested in roles that involve **team leadership** and **management**.
 <!--
 **gawdeparag/gawdeparag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
