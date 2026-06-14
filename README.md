@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-1. **Sr. Bilingual Software Engineer** with **4 years and 9 months**, specializing in **back-end development**.
+1. **Sr. Bilingual Software Engineer** with **4 years and 10 months**, specializing in **full-stack development**.
 2. Strong expertise in *React*, *Java-Spring Boot*, REST APIs, MySQL, MSSQL, etc. and Bilingual capabilities with *Japanese* language. 
 3. Keenly interested in **continuous learning** and **adaptible** to new tech stacks, seeking an environment that offers opportunities for **career advancement** and interested in roles that involve **team leadership** and **management**.
 <!--
