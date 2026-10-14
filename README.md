@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> Hi there!
-1. **Sr. Bilingual Software Engineer** with **5 years & 1 month** of experience, specializing in **full-stack development**.
+1. **Sr. Bilingual Software Engineer** with **5 years & 2 months** of experience, specializing in **full-stack development**.
 2. Strong expertise in *React*, *Java-Spring Boot*, REST APIs, MySQL, MSSQL, etc. and Bilingual capabilities with *Japanese* language. 
 <!--
 **gawdeparag/gawdeparag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
